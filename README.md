@@ -119,6 +119,8 @@ No external services or cloud dependencies are used.
 
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/5a6fce97-9084-4354-a788-1eee43042e13" />
 
+<img width="1589" height="995" alt="image" src="https://github.com/user-attachments/assets/857897a8-2d53-4650-97d5-d1778d05f526" />
+
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f09eefcd-0c72-4868-b88a-e15ff58370e9" />
 
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/98432575-9629-4da5-97a7-c58f55efdbe9" />
