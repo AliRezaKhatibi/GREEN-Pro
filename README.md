@@ -101,17 +101,15 @@ All long-running operations are executed in background threads to keep the UI re
 No external services or cloud dependencies are used.
 
 ---
-```markdown
+
 ## Installation
-<img width="1025" height="933" alt="logo" src="https://github.com/user-attachments/assets/5eb0d6c2-a790-47dc-b1e9-5a4444119701" />
-python green_app_pro.py
+
+### Application Preview
+
+<img width="1025" height="933" alt="GREEN Pro Screenshot"
+src="https://github.com/user-attachments/assets/5eb0d6c2-a790-47dc-b1e9-5a4444119701" />
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/AliRezaKhatibi/GREEN-Pro
 cd green-pro
-
-pip install pandas matplotlib numpy scipy
-
-
-
