@@ -101,7 +101,7 @@ All long-running operations are executed in background threads to keep the UI re
 No external services or cloud dependencies are used.
 
 ---
-
+```markdown
 ## Installation
 
 ### 1. Clone the repository
