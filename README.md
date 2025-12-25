@@ -1,5 +1,6 @@
 # GREEN Pro
-
+<img width="1080" height="720" alt="GREEN Pro Screenshot"
+src="https://github.com/user-attachments/assets/5eb0d6c2-a790-47dc-b1e9-5a4444119701" />
 **GREEN Pro** is a professional, offline desktop application for data quality assessment, cleaning, visualization, dataset comparison, and reporting.  
 It is built for data scientists, analysts, and researchers who need a reliable and fully local tool for CSV-based data analysis.
 
@@ -106,20 +107,19 @@ No external services or cloud dependencies are used.
 
 ### Application Preview
 
-<img width="1025" height="933" alt="GREEN Pro Screenshot"
-src="https://github.com/user-attachments/assets/5eb0d6c2-a790-47dc-b1e9-5a4444119701" />
 
-<img width="915" height="630" alt="image" src="https://github.com/user-attachments/assets/ea3cfaa9-0051-4909-9e8e-89e7ff6260ee" />
 
-<img width="1599" height="1004" alt="image" src="https://github.com/user-attachments/assets/dbe75c6d-32f3-4754-b2b2-9bf408b38fc4" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/ea3cfaa9-0051-4909-9e8e-89e7ff6260ee" />
 
-<img width="414" height="757" alt="image" src="https://github.com/user-attachments/assets/102c45ef-baa5-4e74-bdc4-26b2a45981e3" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/dbe75c6d-32f3-4754-b2b2-9bf408b38fc4" />
 
-<img width="1589" height="1005" alt="image" src="https://github.com/user-attachments/assets/5a6fce97-9084-4354-a788-1eee43042e13" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/102c45ef-baa5-4e74-bdc4-26b2a45981e3" />
 
-<img width="1320" height="866" alt="image" src="https://github.com/user-attachments/assets/f09eefcd-0c72-4868-b88a-e15ff58370e9" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/5a6fce97-9084-4354-a788-1eee43042e13" />
 
-<img width="739" height="805" alt="image" src="https://github.com/user-attachments/assets/98432575-9629-4da5-97a7-c58f55efdbe9" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f09eefcd-0c72-4868-b88a-e15ff58370e9" />
+
+<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/98432575-9629-4da5-97a7-c58f55efdbe9" />
 
 
 
