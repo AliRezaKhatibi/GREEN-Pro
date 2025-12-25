@@ -113,3 +113,7 @@ src="https://github.com/user-attachments/assets/5eb0d6c2-a790-47dc-b1e9-5a444411
 ```bash
 git clone https://github.com/AliRezaKhatibi/GREEN-Pro
 cd green-pro
+
+pip install pandas matplotlib numpy scipy
+python green_app_pro.py
+
