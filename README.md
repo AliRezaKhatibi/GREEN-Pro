@@ -115,8 +115,11 @@ git clone https://github.com/AliRezaKhatibi/GREEN-Pro
 cd green-pro
 ```
 ### 2. Install dependencies
+```bash
 pip install pandas matplotlib numpy scipy
-
+```
 ### 3. Run the application
+```bash
 python green_app_pro.py
+```
 
