@@ -106,7 +106,7 @@ No external services or cloud dependencies are used.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/green-pro.git
+git clone https://github.com/AliRezaKhatibi/GREEN-Pro
 cd green-pro
 
 pip install pandas matplotlib numpy scipy
